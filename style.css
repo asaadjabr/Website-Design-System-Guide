@@ -1,0 +1,110 @@
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left: 10%;
+    
+}
+
+h1 {
+    margin-top: 30px;
+    
+}
+
+h2 {
+    text-align: center;
+}
+    
+
+.color {
+    width: 1100px;
+    height: 400px;
+    border: 5px solid black;
+}
+
+.color li {
+    display: inline-block;
+    padding: 50px 50px;
+    margin: 5px 80px;
+    width: 30px;
+    height: 30px;
+    font-weight: bold;   
+}
+
+.red {
+    background-color:red;   
+}
+
+.green {
+    background-color: green;
+    color: white;
+}
+
+.blue{
+    background-color: blue;
+    color:white;
+}
+
+.purple {
+    background-color: purple;
+    color: white;
+}
+
+.pink {
+    background-color: pink;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.font {
+    margin-top: 20px;
+    width: 1100px;
+    height: 400px;
+    border: 5px solid black;
+}
+
+.font div {
+    display: inline-block;
+    padding: 30px;
+}
+
+
+h3 {
+    text-decoration: underline;
+}
+
+.roboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+.poppins {
+    font-family: 'Poppins', sans-serif;
+}
+
+.nunito {
+    font-family: 'Nunito', sans-serif;
+}
+
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.text-style {
+    margin-top: 20px;
+    padding-left: 30px;
+    width: 1070px;
+    height: 500px;
+    border: 5px solid black;
+    
+}
+
+
+
+.text-style div h2 {
+    text-align: left;
+}
